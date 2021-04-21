@@ -12,7 +12,7 @@ Les algorithmes élaborés pour résoudre des problèmes concernant les objets d
 ![](https://www.peterfisk.com/wp-content/uploads/2020/03/Networks.jpg)
 
 
-# Programmes:
+# Programme:
 
 - Chapitre 1  : Introduction á la théorie des graphes 
 - chapitre 2  : Arbre et arborescence
